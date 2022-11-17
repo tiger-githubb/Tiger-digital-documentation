@@ -2,8 +2,8 @@
 
    Template Name: iDocs - One Page Documentation HTML Template
    Author: Harnish Design
-   Template URL: http://demo.harnishdesign.net/html/idocs
-   Author URL: https://themeforest.net/user/harnishdesign
+   Template URL: http://demo.tigerdigital.net/html/idocs
+   Author URL: https://themeforest.net/user/tigerdigital
    File Description : Main css file of the template
 	
 =================================================
@@ -765,6 +765,12 @@ hr {
 /* =================================== */
 /*  4. Header
 /* =================================== */
+
+#logo{
+  
+  height:  40px;
+
+}
 #header {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
